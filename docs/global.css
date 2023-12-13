@@ -1,0 +1,34 @@
+
+body {
+   margin: 0;
+   line-height: normal;
+}
+
+
+:root {
+   
+   /* fonts */
+   --font-roboto: Roboto;
+   --font-marck-script: 'Marck Script';
+   
+   /* font sizes */
+   --font-size-mini: 15px;
+   --font-size-sm: 14px;
+   --font-size-base: 16px;
+   --font-size-xs: 12px;
+   --font-size-2xs: 11px;
+   --font-size-lg: 18px;
+   --font-size-mid: 17px;
+   --font-size-9xl: 28px;
+   --font-size-xl: 20px;
+   --font-size-4xl: 23px;
+   --font-size-15xl: 34px;
+   
+   /* Colors */
+   --color-white: #fff;
+   --color-darkslateblue: #0f2150;
+   --color-yellow: #fff500;
+   --color-limegreen: #07c319;
+   --color-gray-100: #2a2b38;
+   
+}

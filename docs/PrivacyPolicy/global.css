@@ -1,0 +1,25 @@
+
+body {
+   margin: 0;
+   line-height: normal;
+}
+
+
+:root {
+   
+   /* fonts */
+   --font-roboto: Roboto;
+   
+   /* font sizes */
+   --font-size-xs: 12px;
+   --font-size-2xs: 11px;
+   --font-size-sm: 14px;
+   --font-size-mini: 15px;
+   
+   /* Colors */
+   --color-white: #fff;
+   --color-limegreen: #07c319;
+   --color-yellow: #fff500;
+   --color-midnightblue: #06267a;
+   
+}
