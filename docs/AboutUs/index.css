@@ -577,29 +577,10 @@
    font-family: var(--font-roboto);
 }
 
-/* Media Queries for ABOUT US Page */
+/* Media Queries for ABOUT US page */
 
 /* Mobile Phones */
 @media only screen and (max-width: 480px) {
-   .image-icon1,
-   .image-icon2,
-   .image-icon3,
-   .party-1-icon,
-   .image-icon4 {
-     width: 100%;
-   }
- 
-   .frame15 {
-     top: 1078px;
-   }
- 
-   .frame2 {
-     height: 2638px;
-   }
- }
- 
- /* Tablets and iPads */
- @media only screen and (min-width: 481px) and (max-width: 768px) {
    .frame4 {
      width: 95%;
      right: 2.5%;
@@ -607,7 +588,7 @@
    }
  
    .frame15 {
-     top: 1618px;
+     top: 1430px;
    }
  
    .frame2 {
@@ -615,8 +596,8 @@
    }
  }
  
- /* Small Laptops and Desktops */
- @media only screen and (min-width: 769px) and (max-width: 1024px) {
+ /* Tablets and iPads */
+ @media only screen and (min-width: 481px) and (max-width: 768px) {
    .frame4 {
      width: 90%;
      right: 5%;
@@ -624,11 +605,28 @@
    }
  
    .frame15 {
-     top: 2078px;
+     top: 1930px;
    }
  
    .frame2 {
      height: 3758px;
+   }
+ }
+ 
+ /* Small Laptops and Desktops */
+ @media only screen and (min-width: 769px) and (max-width: 1024px) {
+   .frame4 {
+     width: 85%;
+     right: 7.5%;
+     left: 7.5%;
+   }
+ 
+   .frame15 {
+     top: 2430px;
+   }
+ 
+   .frame2 {
+     height: 4318px;
    }
  }
  
@@ -645,3 +643,4 @@
    only screen and (min-resolution: 2dppx) {
    /* Add your styles for high-resolution devices here */
  }
+ 
