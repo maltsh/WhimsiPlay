@@ -206,11 +206,13 @@
 }
 .privacy-policy {
    margin: 0;
+   font-size: 80%;
 }
 .privacy-policy-effective-container {
    position: absolute;
    top: 363px;
    left: 54px;
+   left: 150px;
 }
 .frame12 {
    position: absolute;

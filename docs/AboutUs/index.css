@@ -220,7 +220,8 @@
 .about-us-welcome-container {
    position: absolute;
    top: 213px;
-   left: -103px;
+   left: 10px;
+   font-size: 80%;
 }
 .frame12 {
    position: absolute;
@@ -576,71 +577,3 @@
    color: var(--color-yellow);
    font-family: var(--font-roboto);
 }
-
-/* Media Queries for ABOUT US page */
-
-/* Mobile Phones */
-@media only screen and (max-width: 480px) {
-   .frame4 {
-     width: 95%;
-     right: 2.5%;
-     left: 2.5%;
-   }
- 
-   .frame15 {
-     top: 1430px;
-   }
- 
-   .frame2 {
-     height: 3198px;
-   }
- }
- 
- /* Tablets and iPads */
- @media only screen and (min-width: 481px) and (max-width: 768px) {
-   .frame4 {
-     width: 90%;
-     right: 5%;
-     left: 5%;
-   }
- 
-   .frame15 {
-     top: 1930px;
-   }
- 
-   .frame2 {
-     height: 3758px;
-   }
- }
- 
- /* Small Laptops and Desktops */
- @media only screen and (min-width: 769px) and (max-width: 1024px) {
-   .frame4 {
-     width: 85%;
-     right: 7.5%;
-     left: 7.5%;
-   }
- 
-   .frame15 {
-     top: 2430px;
-   }
- 
-   .frame2 {
-     height: 4318px;
-   }
- }
- 
- /* Large Laptops and Desktops */
- @media only screen and (min-width: 1025px) {
-   /* Add your styles for large laptops and desktops here */
- }
- 
- /* High-resolution Devices (Retina) */
- @media only screen and (-webkit-min-device-pixel-ratio: 2),
-   only screen and (min--moz-device-pixel-ratio: 2),
-   only screen and (-o-min-device-pixel-ratio: 2/1),
-   only screen and (min-resolution: 192dpi),
-   only screen and (min-resolution: 2dppx) {
-   /* Add your styles for high-resolution devices here */
- }
- 

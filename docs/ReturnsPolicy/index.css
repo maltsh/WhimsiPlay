@@ -246,13 +246,16 @@
 }
 .return-process {
    margin: 0;
+   font-size: 70%;
 }
 .we-accept-returns {
    margin-bottom: 0px;
+   font-size: 70%;
 }
 .we-accept-returns-on-products {
    margin: 0;
    padding-left: var(--padding-8xl);
+   font-size: 70%;
 }
 .returns-policy-effective-container {
    position: absolute;
