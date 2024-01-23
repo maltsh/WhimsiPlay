@@ -36,6 +36,11 @@ For any inquiries or assistance, feel free to reach out to us:
 
 We appreciate your visit to WhimsiPlay and hope you find the perfect toys for your little ones! 🐶🐱
 
+## See Site Below
+![WhimsiPlay](assets/home.png)
+![WhimsiPlay](assets/home1.png)
+![WhimsiPlay](assets/home2.png)
+
 ## Contributing 🤝
 
 If you have suggestions or find any issues, feel free to open an issue or create a pull request. Contributions are welcome!
