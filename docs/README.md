@@ -15,20 +15,17 @@ WhimsiPlay is an online toy store that brings joy to kids and families with a cu
 ## Navigation
 
 ### Header Navigation
-- **Home**: [Go to Landing Page](landing.html)
-- **About Us**: [About Us Page](about_us.html)
-- **Collections**: [Explore Collections](landing.html#frame2)
-- **Trading Hours**: [View Trading Hours](landing.html#frame10)
-- **Contact Hours**: [Contact Section](landing.html#frame15)
+- **Home**: [Go to Landing Page](https://maltsh.github.io/WhimsiPlay/)
+- **About Us**: [About Us Page](https://maltsh.github.io/WhimsiPlay/AboutUs/index.html)
 
 ### Footer Navigation
-- **Careers**: [Explore Career Opportunities](careers.html)
-- **Privacy & POPI Act**: [Privacy Policy](privacy_policy.html)
-- **Returns Policy**: [Returns Policy](returns_policy.html)
+- **Careers**: [Explore Career Opportunities](https://maltsh.github.io/WhimsiPlay/Careers/index.html)
+- **Privacy & POPI Act**: [Privacy Policy](https://maltsh.github.io/WhimsiPlay/PrivacyPolicy/index.html)
+- **Returns Policy**: [Returns Policy](https://maltsh.github.io/WhimsiPlay/ReturnsPolicy/index.html)
 
 ## Returns Policy
 
-Our returns policy ensures a smooth experience for our customers. Please refer to the [Returns Policy Page](returns_policy.html) for detailed information on returns, exchanges, and non-returnable items. 📦
+Our returns policy ensures a smooth experience for our customers. Please refer to the [Returns Policy Page](https://maltsh.github.io/WhimsiPlay/ReturnsPolicy/index.html) for detailed information on returns, exchanges, and non-returnable items. 📦
 
 ## Contact Information
 
@@ -51,5 +48,5 @@ This project is licensed under MIT License - see the [LICENSE](LICENSE) file for
 
 If you find this project useful, consider giving it a star on GitHub. It's a small gesture that means a lot!
 
-⭐ [Star this Repository](https://github.com/maltsh/Portfolio)
+⭐ [Star this Repository](https://maltsh.github.io/WhimsiPlay/)
 
