@@ -1,6 +1,6 @@
 # WhimsiPlay Toy Store
 
-Welcome to Perky Pets, your go-to destination for delightful toys! 🎉
+Welcome to WhimsiPlay, your go-to destination for delightful toys! 🎉
 
 ## Table of Contents
 - [About](#about)
